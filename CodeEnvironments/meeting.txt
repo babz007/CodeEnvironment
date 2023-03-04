@@ -1,26 +1,26 @@
 Standup Meeting
-* Evan
+* Evan - I was the moderator, ensured proper flow of the meeting and ensured whether each team members goals have been achieved
    * What You Did:
       * Conducted a technical report on communities in a 4039 node facebook network, which included modularity analysis and k-cliques finding
    * What You Need to do Next:
       * Begin and finish work or the Software Engineering technical interview and homework 4
    * What is Blocking You:
       * Nothing particular in code or difficulty of tasks, just time
-* Adeyemi
+* Adeyemi - I was the individual contributor
    * What You Did: 
       * Modified datashop nodejs project to accept data elements through the logging library
    * What You Need to do Next: 
       * Start and complete CS 5704 HW 4, then continue modification of the logging library to accept json data
    * What is Blocking You:
       * Finding an availability time with my partner and nothing in particular 
-* Sadath
+* Sadath - Secretary- My role in the meeting was to recordthe minutes and important points discussed in the meeting
    * What You Did
       * Started front end part using HTML
    * What You Need to do Next
       * Add CSS and JS features
    * What is Blocking You: 
       * Need to learn some key points in JS
-* Nayaab
+* Nayaab - Manager - Discussed the reuirement and expectations and discussed how daily stanups would align with the product goals and benefit the team
    * What You Did: 
       * Started the backend and few designing on the pages
    * What You Need to do Next: 
