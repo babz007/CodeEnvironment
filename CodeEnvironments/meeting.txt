@@ -1,2 +1,36 @@
-I functioned as a secretary in the meeting, as I organized and created the google doc that me and my partners
-used for note-taking.
+Standup Meeting
+* Evan
+   * What You Did:
+      * Conducted a technical report on communities in a 4039 node facebook network, which included modularity analysis and k-cliques finding
+   * What You Need to do Next:
+      * Begin and finish work or the Software Engineering technical interview and homework 4
+   * What is Blocking You:
+      * Nothing particular in code or difficulty of tasks, just time
+* Adeyemi
+   * What You Did: 
+      * Modified datashop nodejs project to accept data elements through the logging library
+   * What You Need to do Next: 
+      * Start and complete CS 5704 HW 4, then continue modification of the logging library to accept json data
+   * What is Blocking You:
+      * Finding an availability time with my partner and nothing in particular 
+* Sadath
+   * What You Did
+      * Started front end part using HTML
+   * What You Need to do Next
+      * Add CSS and JS features
+   * What is Blocking You: 
+      * Need to learn some key points in JS
+* Nayaab
+   * What You Did: 
+      * Started the backend and few designing on the pages
+   * What You Need to do Next: 
+      * Need to setup the database 
+   * What is Blocking You: 
+      * Need to learn NoSQL database
+
+
+Are daily standups useful to implement or not?
+* Evan: Doesn’t necessarily believes in daily meetings, only thinks that they are necessary if a roadblock arrives or if needed to set a weekly agenda
+* Sadath: Standups are useful but not mandatory as sometimes they might be counter-productive.
+* Nayaab : I suppose that standups are useful when there are a lot to update on the present work, otherwise, it sometimes may be the waste of time.
+ 
